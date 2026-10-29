@@ -1,0 +1,10 @@
+# AI Hub 원본·라벨 데이터 (배포 불가)
+*.csv
+*.zip
+
+# 팀 내부 과제 산출물 (팀원이 작성한 미션 제출본)
+team-missions/
+
+# 환경 파일
+.DS_Store
+.ipynb_checkpoints/
